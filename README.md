@@ -1,9 +1,9 @@
 ## Hi there 👋
 The following repository contains the instructions of how to deply and run the solution for the following User Stories:
-*As a trader I want to know which symbols are available to be configured so I can know which ones I can use.
-*As a trader I want to configure which symbols I’m interested on and which ones I’m not so I can view their prices later accordingly.
-*As a trader I want to know the available prices for a specific stock in a given timeframe so I can further analyze the data.
-*As a trader I want to download all data from all stocks in a csv format so I can open it in third-party software like Microsoft Excel or Google Sheets.
+* As a trader I want to know which symbols are available to be configured so I can know which ones I can use.
+* As a trader I want to configure which symbols I’m interested on and which ones I’m not so I can view their prices later accordingly.
+* As a trader I want to know the available prices for a specific stock in a given timeframe so I can further analyze the data.
+* As a trader I want to download all data from all stocks in a csv format so I can open it in third-party software like Microsoft Excel or Google Sheets.
 
 this solutios was developed in python language and on AWS cloud.
 
